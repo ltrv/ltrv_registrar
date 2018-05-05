@@ -1,0 +1,14 @@
+{
+  "name": "ltrv_registrar",
+  "version": "1.0.0",
+  "description": "SIP Registrar for LTRV PBX Solution",
+  "main": "registrar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Holmes",
+  "license": "MIT",
+  "dependencies": {
+    "sip": "0.0.4"
+  }
+}
